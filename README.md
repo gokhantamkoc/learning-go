@@ -22,7 +22,7 @@ Every Go program has a main function declaration. It is the entry point of a Go 
 
 ```
 func main() {
-   fmt.Println("Hello, World!")
+   fmt.Println("Hello, Go Developer!")
 }
 ```
 
