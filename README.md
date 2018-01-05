@@ -6,7 +6,7 @@ Let's analyse `/1-helloworld/main.go` file declaration by declaration:
 
 The building block of a Go Program is package.
 
-Every Go Program starts with `package main` declaration
+Every Go Program starts from `package main`. Below is a **package declaration**.
 
 ```
 package main
@@ -25,7 +25,6 @@ func main() {
    fmt.Println("Hello, Go Developer!")
 }
 ```
-
 
 ## **Random Number**
 
